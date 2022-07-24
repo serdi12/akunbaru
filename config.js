@@ -12,7 +12,7 @@
 // • Rasel comel
 // • Xtreshe (Beban)
 // • DaniBotz Team
-// • AryBotz (ank ajg)
+// • 𝚁𝙲𝚃𝙸 𝙱𝙾𝚃 (ank ajg)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -46,34 +46,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/AryBotz'
-global.sgh = 'https://github.com/arybotz'
-global.sgc = 'https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk'
-global.sdc = 'https://github.com/arybotz'
-global.snh = 'https://youtube.com/c/AryBotz'
+global.sig = 'https://saweria.co/IyanMd'
+global.sgh = 'https://saweria.co/IyanMd'
+global.sgc = 'https://saweria.co/IyanMd'
+global.sdc = 'https://saweria.co/IyanMd'
+global.snh = 'https://saweria.co/IyanMd'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085762008398'
-global.povo = 'Gaada bang :v'
-global.pgopay = 'Gaada bang :v'
-global.ppulsa = '085762008398'
+global.pdana = '089516947204'
+global.povo = 'https://saweria.co/IyanMd:v'
+global.pgopay = '089516947204 :v'
+global.ppulsa = '089516947204'
 global.ppulsa2 = '085762008398'
-global.psaweria = 'https://saweria.co/arybotz'
+global.psaweria = 'https://saweria.co/IyanMd'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285763050960'
-global.nomorown = '994408465157'
-global.namebot = 'AryBotz Ofc'
-global.nameown = 'X Ary Offcial'
+global.nomorbot = '6285770199435'
+global.nomorown = '6289516947204'
+global.namebot = '𝚁𝙲𝚃𝙸 𝙱𝙾𝚃 Ofc'
+global.nameown = '𝚒𝚢𝚊𝚗 Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281264038909', 'X Ary Offcial', true]
+  ['6289516947204', 'iyan Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['6289516947204'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 AryBotz |Ary Offcial⁩ 」' //Main Watermark
-global.wm2 = '    乂 Ary Botz 乂     '
-global.wm3 = 'Ary Botz |ᗪ'
+global.wm = '「 𝚁𝙲𝚃𝙸 𝙱𝙾𝚃 |Iyan Offcial⁩ 」' //Main Watermark
+global.wm2 = '    乂 Iyan Botz 乂     '
+global.wm3 = 'Iyan Botz |ᗪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'AryBotz-MD✯✯✯✯✯ '
+global.titlebot = '𝚒𝚢𝚊𝚗-MD✯✯✯✯✯ '
 global.author = global.wm
 
 
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '\n'
-global.stickauth = `乂 YT:AryBotz.|ᗪ \nig AryBotz.id`
+global.stickauth = `乂 ---------.|ᗪ \nig AryBotz.id`
 
 global.multiplier = 38 // The higher, The harder levelup
 
